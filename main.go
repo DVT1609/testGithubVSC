@@ -6,5 +6,6 @@ import(
 
 func main(){
 	fmt.Printf("HELLO\n")
+	fmt.Printf("WORLD\n")
 	fmt.Printf("DVT\n")
 }
